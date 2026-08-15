@@ -176,7 +176,7 @@ Each source answers a distinct business question. Invoice history answers "did t
 
 ## 👤 Author
 
-**M2 Data Science Intern** · May 2026  
+**M2 Data and BI Analyst Intern** · May 2026  
 Pipeline design, implementation, validation, and documentation.
 
 ---
